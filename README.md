@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ualehosaini&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ualehosaini&" alt="ualehosaini" /></p> 
 
+![Metrics](https://metrics.lecoq.io/ualehosaini?template=terminal&activity=1&followup=1&isocalendar=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLisbon&config.animated=true)
+
