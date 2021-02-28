@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://raw.githubusercontent.com/ualehosaini/ualehosaini/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg) | ![]
+(https://raw.githubusercontent.com/ualehosaini/ualehosaini/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ualehosaini&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/ualehosaini)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ualehosaini&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ualehosaini&" alt="ualehosaini" /></p> 
